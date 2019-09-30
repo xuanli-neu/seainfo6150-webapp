@@ -19,7 +19,7 @@
 
       <p>But visitors will be able to see the original 3,600-pound torch in all its glory at a new Statue of Liberty Museum, which will open on Liberty Island in May 2019. The torch was transported there by truck last week, along with a replica model of Lady Liberty's face.</p>
 
-      <p>"Although it is not one of the most difficult things we have ever moved," says Douglas Phelps, who oversaw the relocation of the torch, "it is certainly the most important."</p>
+      <p><q>Although it is not one of the most difficult things we have ever moved,</q> says Douglas Phelps, who oversaw the relocation of the torch, <q>it is certainly the most important.</q></p>
 
       <h1>The history of the Statue of Liberty</h1>
 
@@ -31,7 +31,7 @@
 
       <p>Since then, the statue has served as a symbol of hope and possibility for many people who entered the United States as immigrants via neighboring Ellis Island.</p>
 
-      <p>"The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy," says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit inspired the decision to inscribe these famous lines on the statue's pedestal: </p>
+      <p><q>The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy,</q> says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit inspired the decision to inscribe these famous lines on the statue's pedestal: </p>
         
         <blockquote>
             Give me your tired, your poor<br />
