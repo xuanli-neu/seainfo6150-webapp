@@ -1,6 +1,9 @@
       <!DOCTYPE html>
       <html lang="en">
       <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta http-equiv="X-UA-Compatible" content="ie=edge" />
       <title>Assignment 3</title>
       </head>
       <body>
@@ -9,7 +12,7 @@
       <address>by Kate Farley <a href="mailto:kate.farley@nytimes.com"> (kate.farley@nytimes.com)</a> </address> 
       <time dateTime="2018-11-22">November 22, 2018</time>
        
-
+      <article>
       <p>The Statue of Liberty's original torch is getting a new home.</p>
 
       <p>Made of copper and gold so that it would shine bright, the first torch took a beating from the weather and was replaced by a replica in 1984. It's been stored in the statue's pedestal ever since.</p>
@@ -53,6 +56,6 @@
 
         <li>Total weight of the Statue of Liberty is <b>225 tons (or 450,000 pounds)</b></li>
         </ul>
-     
+   </article>
    </body>
    </html>
