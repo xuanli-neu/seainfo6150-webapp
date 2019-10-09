@@ -1,4 +1,7 @@
 import React from "react";
+import PropTypes from 'prop-types'
+import SlugButton from './SlugButton.jsx'
+import './ArticleListItem.module.css'
 
 const ArticleListItem = props =>{
 	return (
@@ -6,9 +9,8 @@ const ArticleListItem = props =>{
      	<li key={props.article.slug}>
 		    <strong>{props.article.title}</strong>
         <p>{props.article.shortText}</p>
-        <p><time dateTime = {props.article.pubYear}>{props.article.pubDate}</time>
-        <button onClick = {() => alert(props.article.slug)}>
-                          {"show article slug"}</button></p>                                         
+        <time dateTime = {props.article.pubYear}>{props.article.pubDate}</time>
+        <SlugButton article = {props.article}/>                                        
         </li>
         </div> 
     );
@@ -16,5 +18,7 @@ const ArticleListItem = props =>{
 };
 
 
-
+ArticleListItem.propTypes = {
+    articles: PropTypes.object.isRequired
+};
 export default ArticleListItem;

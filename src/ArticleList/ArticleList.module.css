@@ -1,0 +1,10 @@
+li{
+  list-style-type: none;
+  padding: 15px;
+  margin: 0 auto;
+}
+ul{
+    border: dashed rgb(87, 86, 86) ;
+    margin: -50px;
+    background-color: rgb(160, 159, 159);
+}

@@ -1,0 +1,23 @@
+div{
+    border: 2px solid rgb(224, 25, 25);
+    padding: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    background-color:rgb(245, 244, 244);
+}
+
+strong{
+    color: rgb(218, 26, 26);
+    font-size:1.5em;
+}
+
+p{
+    font-weight: normal;
+    font-size: 18px;
+}
+
+time{
+    font-size: 15px;
+}
