@@ -7,7 +7,7 @@ const ArticleListItem = props =>{
 	return (
 		<div>
      	<li key={props.article.slug}>
-		<strong>{props.article.title}</strong>
+		<strong><b>{props.article.title}</b></strong>
         <p>{props.article.shortText}</p>
         <b><time dateTime = {props.article.pubYear}>{props.article.pubDate}</time></b>
         <SlugButton article = {props.article}/>                                        
