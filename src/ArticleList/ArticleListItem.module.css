@@ -10,7 +10,7 @@ div{
 
 strong{
     color: rgb(218, 26, 26);
-    font-size:1.5em;
+    font-size:3em;
 }
 
 p{
@@ -19,5 +19,5 @@ p{
 }
 
 time{
-    font-size: 15px;
+    font-size: 18px;
 }
