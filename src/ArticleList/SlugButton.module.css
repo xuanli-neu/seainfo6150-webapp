@@ -1,11 +1,15 @@
 button{
-    background-color: rgb(211, 3, 3);;
-    border: 1.5px solid rgb(224, 25, 25);
-    border-radius: 20px;
-    padding: 10px 50px;
-    color: white;
-    float: right;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    border: 2px solid rgb(230, 224, 224);
+    border-radius: 10px;
+    width:420px;
+    height: 50px;
+    background-color: rgb(211, 3, 3);
+    color:white;
+    position: relative;
+    left:15px;
+    top:380px;
     font-size: 15px;
-    position: absolute;
-    right: 30px;
+    overflow: hidden;
 }

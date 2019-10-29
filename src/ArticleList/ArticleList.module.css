@@ -10,8 +10,14 @@ li{
     background:linear-gradient(to right,rgba(196, 43, 43, 0.63),white 20%);
 }
 ul{
+    display: grid;
+    grid-template-columns: repeat(3, 32%);
+    grid-template-rows: repeat(9,680px);
+    grid-column-gap: 30px;
+    justify-content:center;
+
     border: dashed rgb(128, 127, 127) ;
-    border-radius: 20px;
-    margin: 40px;
+    border-radius: 10px;
+    margin: 10px;
     background-color: rgb(160, 159, 159);
 }

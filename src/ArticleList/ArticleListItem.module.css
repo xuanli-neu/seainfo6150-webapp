@@ -1,31 +1,30 @@
-div{
-    padding:10px;
+section{
+    /* padding:10px; */
+    justify-content: flex-start;
     position: relative;
-    padding-inline-start: 0px;
-    padding-inline-end: 0px;
-    padding-bottom: -20px;
+    float: left;
+    padding-inline-start: 20px;
+    padding-inline-end: 50px;
+    padding-bottom: 20px;
 }
 
-strong{
+
+h1{
+    
     color: rgb(218, 26, 26);
-    font-size:3em;
-    position: relative;
-    right:0px;
+    font-size:2em;
+    
+    
 }
 
 p{
     font-weight: normal;
     font-size: 18px;
-    /*position: relative;
-    right:0px;
-    float:right;  
-    width:75%;*/
-
+    
 }
 
 time{
-    font-size: 18px;
+    font-size: 15px;
     font-weight: bold;
-    position: absolute;
-    left: 220px;
+    
 }

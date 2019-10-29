@@ -3,6 +3,6 @@ img{
     border-radius: 100%;
     float:left;
     position: relative;
-    right:0px;
-    top:0px;
+    right:-10px;
+    top:20px;
 }
