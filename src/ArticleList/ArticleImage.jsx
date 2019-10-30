@@ -4,7 +4,7 @@ import './ArticleImage.module.css'
 
 const ArticleImage = props => (
     <div class="image">
-        <img src={props.article.image._url} alt={props.article.title} width="200" height="100" />
+        <img src={props.article.image._url} alt={props.article.title} width="220" height="100" />
     </div>
         
         );

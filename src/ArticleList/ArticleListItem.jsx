@@ -13,21 +13,17 @@ const ArticleListItem = props =>(
                 <meta charset="UTF-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-                <title>Week6 assignment</title>
+                <title>Assignment 8</title>
             </head>
-
             <body >
                 <ArticleImage article = {props.article}/>
                 <SlugButton article = {props.article}/>
                 <section id = "container">
-                    <h1 class = "item-h1">{props.article.title}</h1> 
-                    <p class = "item-p">{props.article.shortText}</p>
-                    <time class = "item -time" dateTime = {props.article.pubDate}>{props.article.pubDate}</time>
-                    
-                </section>
-                
+                    <h1>{props.article.title}</h1> 
+                    <p>{props.article.shortText}</p>
+                    <time dateTime = {props.article.pubDate}>{props.article.pubDate}</time>
+                </section> 
             </body>
-            
         </html>
     </div>
 
