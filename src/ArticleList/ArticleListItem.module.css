@@ -28,3 +28,45 @@ time{
     font-weight: bold;
     
 }
+
+@media (min-width: 400px) {
+    h1{
+        font-size: 1.0em;
+    }
+
+    p{
+        font-size: 12px;
+    }
+
+    time{
+        font-size:12px;
+    }
+}
+
+@media (min-width: 800px) {
+    h1{
+        font-size: 1.4em;
+    }
+
+    p{
+        font-size: 12px;
+    }
+
+    time{
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 1200px) {
+    h1{
+        font-size: 1.4em;
+    }
+
+    p{
+        font-size: 15px;
+    }
+
+    time{
+        font-size:15px;
+    }
+}
